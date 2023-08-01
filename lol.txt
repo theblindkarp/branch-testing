@@ -1,0 +1,12 @@
+This is a test for a textfile
+
+wow this will never change
+
+but this will change
+
+and this will go down here
+|
+V
+and this wont exist
+
+but this will
